@@ -1,0 +1,26 @@
+{
+  "Change": {
+    "10": 30,
+    "50": 20,
+    "100": 30,
+    "500": 10,
+    "1000": 0
+  },
+  "Stock": {
+    "cola": 20,
+    "energy": 20,
+    "orange": 20,
+    "tea": 20,
+    "water": 20
+  },
+  "name": {
+    "cola": "syohin4.png",
+    "energy": "syohin5.png",
+    "orange": "syohin3.png",
+    "tea": "syohin2.png",
+    "water": "syohin1.png"
+  },
+  "Earnings": {
+    "value": 0
+  }
+}
